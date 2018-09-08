@@ -24,18 +24,18 @@ logofile            = "img/logo.png"
 faviconfile         = "img/logo.png"
 highlightjs         = true
 progressively       = false # for images, by default = true
-share               = true
+share               = false # does not seem to be working on netlify
 # Share to googleplus, twitter, fb, linkedin by default
 # disable by setting share_on_<social network> = false
 # example: share_on_googleplus = false
 latestpostcount     = 5
 github              = "example"
-#email               = "you@example.com"
-#linkedin            = "john-example-aa80ue8è"
+#email              = "you@example.com"
+#linkedin           = "john-example-aa80ue8è"
 twitter             = "example"
-#facebook            = "facebook_id"
-#instagram           = "instagram_id"
-#itch_io             = "itch_io_id"
+#facebook           = "facebook_id"
+#instagram          = "instagram_id"
+#itch_io            = "itch_io_id"
 social_banner       = "img/banner.png"
 usesmallsummarycard = true
 posts_navigation    = true
