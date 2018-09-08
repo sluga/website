@@ -1,4 +1,4 @@
-baseurl             = "https://sluga.netlify.com"
+baseurl             = "https://sluga.netlify.com/"
 theme               = "cocoa-eh-hugo-theme"
 builddrafts         = true
 canonifyurls        = true
